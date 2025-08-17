@@ -21,7 +21,7 @@ O programa gera automaticamente um tabuleiro e permite que o jogador interaja at
 ## 📷 Exemplo de jogo
 
 === Sudoku Java (console) ===
-
+```
 Comandos: set L C V | clear L C | hint | check | print | solve | quit
 
 +-------+-------+-------+
@@ -37,5 +37,6 @@ Comandos: set L C V | clear L C | hint | check | print | solve | quit
 | 8 . . | 2 . 3 | . . 9 |
 | . . 5 | . 1 . | 3 . . |
 +-------+-------+-------+
+```
 
 > set 1 1 4
